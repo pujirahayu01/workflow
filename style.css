@@ -1,5 +1,5 @@
 body {
-    background: #DAEAF5;
+    background: #2CA9A3;
     font-family: Poppins;
 
 }
@@ -40,7 +40,7 @@ body {
     border-left: none;
     border-radius: 5px;
     padding: 10px 20px;
-    color: white;
+    color: rgb(236, 152, 152);
     font-size: 15pt;
     border-bottom: 4px;
 }
