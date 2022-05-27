@@ -35,6 +35,7 @@
     ?>
     <div class="main">
         <h1 class="title"> KALKULATOR SEDERHANA </h1>
+        <p>Bertujuan untuk memudahkan pengguna dalam menghitung sebuah bilangan</p>
         <form method="post" action="kalkulator.php">
             <input type="number" name="bil1" class="bil" placeholder="Masukkan Bilangan ke - 1 ">
             <input type="number" name="bil2" class="bil" placeholder="Masukkan Bilangan ke - 2 ">
